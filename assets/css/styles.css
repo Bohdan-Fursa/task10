@@ -276,4 +276,8 @@ section.wrapper, article.wrapper {
     padding-top: 40px;
     width: unset;
   }
+  #banner .flex div{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+    border-right: unset;
+  }
 }
