@@ -267,7 +267,7 @@ section.wrapper, article.wrapper {
 		.icon > .label {
 			display: none;
 		}
-@media (max-width:414px){
+@media (max-width:550px){
   .flex{
     flex-direction: column;
   }
