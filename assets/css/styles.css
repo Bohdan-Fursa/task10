@@ -270,5 +270,6 @@ section.wrapper, article.wrapper {
 @media (max-width:550px){
   .flex{
     flex-direction: column;
+    align-items: center;
   }
 }
